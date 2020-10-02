@@ -1,0 +1,477 @@
+{
+  "header": {
+    "name": "Comptech !",
+    "topbar": [
+      {
+        "title": {
+          "en" : "Contact us",
+          "id" : "Kontak kami"
+        },
+        "content": "+62212345678"
+      },
+      {
+        "title": {
+          "en" : "Email us",
+          "id" : "Surel kami"
+        },
+        "content": "support@comptech.com"
+      }
+    ],
+    "navbar": [
+      {
+        "title": {
+          "en": "Home",
+          "id": "Beranda"
+        },
+        "url": "/"
+      },
+      {
+        "title": {
+          "en": "Our Works",
+          "id": "Pekerjaan Kami"
+        },
+        "url": "works"
+      },
+      {
+        "title": {
+          "en": "Our Clients",
+          "id": "Pelanggan Kami"
+        },
+        "url": "clients"
+      },
+      {
+        "title": {
+          "en": "About",
+          "id": "Tentang"
+        },
+        "url": "about"
+      }
+    ]
+  },
+  "content": {
+    "welcome": {
+      "title": "Comptech !",
+      "description": {
+        "en": "a software development service company that focuses on helping our customers turn their best ideas into a product, application or website.",
+        "id": "sebuah perusahaan layanan pengembangan perangkat lunak yang berfokus pada membantu pelanggan mengubah ide terbaik mereka menjadi produk, aplikasi, atau situs web."
+      }
+    },
+    "data": {
+      "services": {
+        "title": {
+          "en": "Our Services",
+          "id": "Pelayanan Kami"
+        },
+        "content": [
+          {
+            "position": "top",
+            "title": {
+              "en": "We share our ideas, knowhow and experience",
+              "id": "Kami berbagi ide, pengetahuan, dan pengalaman"
+            },
+            "description": {
+              "en": "We try to help our customer innovation or ideas become a product that people can benefit and enjoy. We share our ideas, knowhow and experiences in the projects. However, we also know how to listen and develop products based on the wishes of a customer.",
+              "id": "Kami mencoba membantu inovasi atau ide pelanggan kami menjadi produk yang dapat dinikmati dan dinikmati orang. Kami berbagi ide, pengetahuan, dan pengalaman kami dalam proyek. Namun, kami juga tahu bagaimana mendengarkan dan mengembangkan produk berdasarkan keinginan pelanggan."
+            }
+          },
+          {
+            "position": "top",
+            "title": {
+              "en": "We enjoy a long-term relationship",
+              "id": "Kami senang dengan ikatan jangka panjang"
+            },
+            "description": {
+              "en": "One thing that sets us apart from others is our passionate team. Our business analyst and developers are always passionate to develop high quality software. So far, all of our Customers benefits from our software development services, and we enjoy a long-term relationship.",
+              "id": "Satu hal yang membedakan kami dari yang lain adalah tim kami yang bersemangat. Analis dan pengembang bisnis kami selalu bersemangat untuk mengembangkan perangkat lunak berkualitas tinggi. Sejauh ini, semua Pelanggan kami mendapat manfaat dari layanan pengembangan perangkat lunak kami, dan kami senang dengan ikatan jangka panjang."
+            }
+          },
+          {
+            "position": "bottom",
+            "title": {
+              "en": "High Quality Development Services",
+              "id": "Layanan Pengembangan Kualitas Baik"
+            },
+            "description": {
+              "en": "We are very aware and meticulous in producing high-quality software for our customers.",
+              "id": "Kami sangat sadar dan teliti dalam memproduksi perangkat lunak berkualitas baik untuk pelanggan kami."
+            }
+          },
+          {
+            "position": "bottom",
+            "title": {
+              "en": "Experienced Developers",
+              "id": "Pengembang Yang Berpengalaman"
+            },
+            "description": {
+              "en": "We have successfully completed more than 500 custom software development and software testing projects.",
+              "id": "Kami telah berhasil menyelesaikan lebih dari 500 proyek pengembangan perangkat lunak khusus dan pengujian perangkat lunak."
+            }
+          },
+          {
+            "position": "bottom",
+            "title": {
+              "en": "Competitive Price",
+              "id": "Harga yang bersaing"
+            },
+            "description": {
+              "en": "We can produce high-quality software development job with minimal investments.",
+              "id": "Kami dapat menghasilkan pekerjaan pengembangan perangkat lunak berkualitas baik dengan investasi minimal."
+            }
+          }
+        ]
+      },
+      "works": {
+        "title": {
+          "en": "Our Works",
+          "id": "Pekerjaan Kami"
+        },
+        "description": {
+          "en": "We always provide the best service and solutions that suit our clients requirement. We give you good quality of software development through a better understanding of your business.",
+          "id": "Kami selalu memberikan layanan dan solusi terbaik yang sesuai dengan kebutuhan klien kami. Kami memberi Anda kualitas pengembangan perangkat lunak yang baik melalui pemahaman yang lebih baik tentang bisnis Anda."
+        },
+        "content": [
+          {
+            "position": "top",
+            "content": [
+              {
+                "title": "100+",
+                "description": {
+                  "en": "Expert Employee",
+                  "id": "Karyawan Ahli"
+                }
+              },
+              {
+                "title": "20+",
+                "description": {
+                  "en": "Years of Commitment",
+                  "id": "Tahun Telah Komitmen"
+                }
+              },
+              {
+                "title": "500+",
+                "description": {
+                  "en": "Successful Project",
+                  "id": "Proyek Sukses"
+                }
+              }
+            ]
+          },
+          {
+            "position": "middle",
+            "title": {
+              "en": "Our Cooperation Model",
+              "id": "Model Kerjasama Kami"
+            },
+            "content": [
+              {
+                "title": {
+                  "en": "Discover Project Goal",
+                  "id": "Temukan Tujuan Proyek"
+                },
+                "description": {
+                  "en": "We are ready to assist your requirement and deliver professional advice on the right technology and architectural.",
+                  "id": "Kami siap membantu kebutuhan Anda dan memberikan saran profesional tentang teknologi dan arsitektur yang tepat."
+                }
+              },
+              {
+                "title": {
+                  "en": "Get a Proposal from Us",
+                  "id": "Dapatkan Proposal dari Kami"
+                },
+                "description": {
+                  "en": "When your project requirement understood by both parties, we will provide you with proposal.",
+                  "id": "Ketika kebutuhan proyek Anda dipahami oleh kedua belah pihak, kami akan memberi Anda proposal."
+                }
+              },
+              {
+                "title": {
+                  "en": "Taken the Contract",
+                  "id": "Ambil Kontrak"
+                },
+                "description": {
+                  "en": "Once you agree to build your project with us, we sign a contract. You're in a good hands, we will support you in a long term.",
+                  "id": "Setelah Anda setuju untuk membangun proyek Anda dengan kami, kami menandatangani kontrak. Anda berada di tangan yang tepat, kami akan mendukung Anda dalam jangka panjang."
+                }
+              },
+              {
+                "title": {
+                  "en": "Project Implementation Starts",
+                  "id": "Pelaksanaan Proyek Dimulai"
+                },
+                "description": {
+                  "en": "We're ready to produce high quality software for you and we will always keep you up-to-date with the project progress.",
+                  "id": "Kami siap memproduksi perangkat lunak berkualitas tinggi untuk Anda dan kami akan selalu memberi Anda informasi terbaru tentang kemajuan proyek."
+                }
+              }
+            ]
+          },
+          {
+            "position": "bottom",
+            "title": {
+              "en": "Our Completed Project",
+              "id": "Proyek kami yang selesai"
+            },
+            "content": [
+              {
+                "image": "images/application.jpg",
+                "title": "Application Name",
+                "category": "Mobile Application"
+              },
+              {
+                "image": "images/application.jpg",
+                "title": "Application Name",
+                "category": "Web Application"
+              },
+              {
+                "image": "images/application.jpg",
+                "title": "Application Name",
+                "category": "Mobile Application"
+              },
+              {
+                "image": "images/application.jpg",
+                "title": "Application Name",
+                "category": "Web Application"
+              },
+              {
+                "image": "images/application.jpg",
+                "title": "Application Name",
+                "category": "Mobile Application"
+              },
+              {
+                "image": "images/application.jpg",
+                "title": "Application Name",
+                "category": "Web Mobile Application"
+              },
+              {
+                "image": "images/application.jpg",
+                "title": "Application Name",
+                "category": "Mobile Application"
+              },
+              {
+                "image": "images/application.jpg",
+                "title": "Application Name",
+                "category": "Web Application"
+              },
+              {
+                "image": "images/application.jpg",
+                "title": "Application Name",
+                "category": "Mobile Application"
+              },
+              {
+                "image": "images/application.jpg",
+                "title": "Application Name",
+                "category": "Web Mobile Application"
+              },
+              {
+                "image": "images/application.jpg",
+                "title": "Application Name",
+                "category": "Web Application"
+              },
+              {
+                "image": "images/application.jpg",
+                "title": "Application Name",
+                "category": "Web Mobile Application"
+              },
+              {
+                "image": "images/application.jpg",
+                "title": "Application Name",
+                "category": "Mobile Application"
+              },
+              {
+                "image": "images/application.jpg",
+                "title": "Application Name",
+                "category": "Web Mobile Application"
+              },
+              {
+                "image": "images/application.jpg",
+                "title": "Application Name",
+                "category": "Mobile Application"
+              },
+              {
+                "image": "images/application.jpg",
+                "title": "Application Name",
+                "category": "Mobile Application"
+              }
+            ]
+          }
+        ]
+      },
+      "clients": {
+        "title": {
+          "en": "Our Clients",
+          "id": "Pelanggan Kami"
+        },
+        "description": {
+          "en": "We experience in product implementation and application development in small and large project. We have been deliver service with knowledge and understanding of complex requirement for more than 20 years. These are some companies that have chosen us to provide IT solutions for their business.",
+          "id": "Kami berpengalaman dalam implementasi produk dan pengembangan aplikasi dalam proyek kecil dan besar. Kami telah memberikan layanan dengan pengetahuan dan pemahaman tentang kebutuhan yang kompleks selama lebih dari 20 tahun. Berikut adalah beberapa perusahaan yang telah memilih kami untuk memberikan solusi IT bagi bisnis mereka."
+        },
+        "content": [
+          {
+            "image": "images/client.jpg",
+            "title": "client"
+          },
+          {
+            "image": "images/client.jpg",
+            "title": "client"
+          },
+          {
+            "image": "images/client.jpg",
+            "title": "client"
+          },
+          {
+            "image": "images/client.jpg",
+            "title": "client"
+          },
+          {
+            "image": "images/client.jpg",
+            "title": "client"
+          },
+          {
+            "image": "images/client.jpg",
+            "title": "client"
+          },
+          {
+            "image": "images/client.jpg",
+            "title": "client"
+          },
+          {
+            "image": "images/client.jpg",
+            "title": "client"
+          },
+          {
+            "image": "images/client.jpg",
+            "title": "client"
+          },
+          {
+            "image": "images/client.jpg",
+            "title": "client"
+          },
+          {
+            "image": "images/client.jpg",
+            "title": "client"
+          },
+          {
+            "image": "images/client.jpg",
+            "title": "client"
+          },
+          {
+            "image": "images/client.jpg",
+            "title": "client"
+          },
+          {
+            "image": "images/client.jpg",
+            "title": "client"
+          },
+          {
+            "image": "images/client.jpg",
+            "title": "client"
+          },
+          {
+            "image": "images/client.jpg",
+            "title": "client"
+          }
+        ]
+      },
+      "organization": [
+        {
+          "header": "Leader Company",
+          "content": {
+            "name": "Laminal Falah",
+            "image": "",
+            "description": ""
+          }
+        },
+        {
+          "header": "Leader Company",
+          "content": {
+            "name": "Laminal Falah",
+            "image": "",
+            "description": ""
+          }
+        },
+        {
+          "header": "Leader Company",
+          "content": {
+            "name": "Laminal Falah",
+            "image": "",
+            "description": ""
+          }
+        }
+      ]
+    },
+    "author": {
+      "en": "Information Author",
+      "id": "Informasi Pembuat"
+    }
+  },
+  "footer": {
+    "about": {
+      "name": "Comptech !",
+      "address": {
+        "title": {
+          "en": "Address",
+          "id": "Alamat"
+        },
+        "content": "Jl. Merdeka"
+      },
+      "subdistrict": "Gambir",
+      "district": "Gambir",
+      "city": "Jakarta Pusat",
+      "province": "DKI Jakarta",
+      "country": {
+        "title": {
+          "en": "Country",
+          "id": "Negara"
+        },
+        "content": "Indonesia"
+      },
+      "phone": {
+        "title": {
+          "en": "Phone",
+          "id": "Telepon"
+        },
+        "content": "+62212345678"
+      },
+      "email": {
+        "title": {
+          "en": "Email",
+          "id": "Surel"
+        },
+        "content": "support@comptech.com"
+      }
+    },
+    "social": {
+      "title": {
+        "en": "Follow us",
+        "id": "Ikuti kami"
+      },
+      "data": [
+        {
+          "name": "Facebook",
+          "link": "https://www.facebook.com",
+          "icon": "icons/facebook.svg"
+        },
+        {
+          "name": "Twitter",
+          "link": "https://www.twitter.com",
+          "icon": "icons/twitter.svg"
+        },
+        {
+          "name": "Instagram",
+          "link": "https://www.instagram.com",
+          "icon": "icons/instagram.svg"
+        },
+        {
+          "name": "Linkedin",
+          "link": "https://www.linkedin.com",
+          "icon": "icons/linkedin.svg"
+        },
+        {
+          "name": "Youtube",
+          "link": "https://www.youtube.com",
+          "icon": "icons/youtube.svg"
+        }
+      ]
+    }
+  }
+}
